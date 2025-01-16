@@ -1,1 +1,1 @@
-# jsx-email-bug-example
+# email-project
